@@ -221,3 +221,4 @@ C:\Users\Qarib\Desktop\MultiShop\MultiShop\obj\Debug\net8.0\refint\MultiShop.dll
 C:\Users\Qarib\Desktop\MultiShop\MultiShop\obj\Debug\net8.0\MultiShop.pdb
 C:\Users\Qarib\Desktop\MultiShop\MultiShop\obj\Debug\net8.0\MultiShop.genruntimeconfig.cache
 C:\Users\Qarib\Desktop\MultiShop\MultiShop\obj\Debug\net8.0\ref\MultiShop.dll
+C:\Users\Qarib\Desktop\MultiShop\MultiShop\obj\Debug\net8.0\MultiShop.sourcelink.json
